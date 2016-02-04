@@ -17,12 +17,7 @@ $(function() {
           "<li><i> The day after tomorrow: </i> A low of <b>" + data.daily.data[2].temperatureMin + " degrees </b>and a high of <b>" +data.daily.data[1].temperatureMax +" degrees</b>. </li>" +
           "<li><i> The following day: </i> A low of <b>" + data.daily.data[3].temperatureMin + " degrees </b>and a high of <b>" +data.daily.data[1].temperatureMax +" degrees</b>. </li></ul>"
 
-// Format for daily: use console to look up variable. check out week 3 survival guide for help.
-    // "<ul><li> Temperature:" + data.currently.variable + "text"<li>
 
-
-
-// For next days Look at data array, data.daily.data[1].variable for tomorrow and so on
 
     // End of your code
 
